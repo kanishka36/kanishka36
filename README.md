@@ -27,4 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kanishka36&show_icons=true&locale=en" alt="kanishka36" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kanishka36&" alt="kanishka36" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com?user=kanishka36" alt="GitHub Streak" /></p>
